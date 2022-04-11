@@ -1,3 +1,7 @@
+"""
+Файл запуска проекта
+"""
+
 import zxc.task.arg as arg
 from zxc.vqa.zxc_vqa import VQA
 

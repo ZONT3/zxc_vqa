@@ -1,3 +1,7 @@
+"""
+Парсинг аргументов
+"""
+
 from argparse import ArgumentParser
 p = ArgumentParser()
 
